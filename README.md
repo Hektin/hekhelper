@@ -11,8 +11,8 @@ Source code is not published; distribution is via the built `.jar` only.
 
 ## Download
 
-- Modrinth: (add your link)
-- CurseForge: (optional)
+**Modrinth and CurseForge pages are not live yet.**
+When they are published, download links will be added here.
 
 ## Installation
 
