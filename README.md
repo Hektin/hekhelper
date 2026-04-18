@@ -1,7 +1,7 @@
 # HekHelper (Beta)
 
-**Fabric** istemci modu — HUD, radar, nişangâh yardımcıları.
-Kaynak kod yayınlanmaz; dağıtım yalnızca derlenmiş jar ile yapılır.
+**Fabric** client mod — HUD, radars, crosshair helpers.
+Source code is not published; distribution is via the built `.jar` only.
 
 | | |
 |---|---|
@@ -9,19 +9,19 @@ Kaynak kod yayınlanmaz; dağıtım yalnızca derlenmiş jar ile yapılır.
 | **Loader** | Fabric |
 | **Java** | 21+ |
 
-## İndir
+## Download
 
-- Modrinth: (buraya link)
-- CurseForge: (isteğe bağlı)
+- Modrinth: (add your link)
+- CurseForge: (optional)
 
-## Kurulum
+## Installation
 
-1. [Fabric Loader](https://fabricmc.net/use/installer/) kur.
-2. Uyumlu **Fabric API** jar dosyasını `mods` klasörüne koy.
-3. `hekhelper` jar dosyasını `.minecraft/mods` içine koy.
+1. Install [Fabric Loader](https://fabricmc.net/use/installer/).
+2. Put a compatible **Fabric API** jar in your `mods` folder.
+3. Put the `hekhelper` jar in `.minecraft/mods`.
 
-## Sorun bildirimi
+## Issues
 
 - [Issues](https://github.com/Hektin/hekhelper-showcase/issues)
 
-*Yazar: Hektin*
+*Author: Hektin*
